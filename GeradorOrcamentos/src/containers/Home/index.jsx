@@ -1,10 +1,11 @@
-import { Title } from "./styles"
 
+import Login
+ from "../login/login"
 function Home(){
 
     return (
         <div>
-            <Title>Home</Title>
+            <Login/>
         </div>
     )
 
