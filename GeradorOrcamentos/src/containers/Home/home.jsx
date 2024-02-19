@@ -1,9 +1,10 @@
-import Login from "../login/login"
+import MenuLateral from "../../components/MenuLateral/menuLateral"
+
 function Home(){
 
     return (
         <div>
-            <Login/>
+            <MenuLateral/>
         </div>
     )
 
