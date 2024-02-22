@@ -1,10 +1,11 @@
 
-import Login from "../login/login"
+import Home from "../Home/home"
+
 function App(){
 
     return (
         <div>
-            <Login/>
+            <Home/>
         </div>
     )
 
